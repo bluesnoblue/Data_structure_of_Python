@@ -35,7 +35,7 @@ class Queue(object):
         return len(self.queue)
 
 if __name__ == '__main__':
-    q =Queue()
+    q =Queue1()
     q.in_queue(1)
     q.show()
 

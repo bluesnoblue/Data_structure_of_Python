@@ -1,3 +1,4 @@
+
 class Stack(object):
     __slots__ = ('__items',)
 
